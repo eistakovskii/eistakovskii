@@ -6,9 +6,9 @@ My experience and background summarized you can find in my [CV](/CV/Elisei_Stako
 
 ### 👨‍💻 About Me :
 
-- 👨‍🔬: at the moment I’m working as a NLP Engineer and actively contributing to open-source development and NLP-connected research.
+- 👨‍🔬 at the moment I’m working as a NLP Engineer and actively contributing to open-source development and NLP-connected research.
 
-- 🌱 : my main interests are NER (Named Entity Recognition), RE (Relation Extraction), and Style Transfer.
+- 🌱 my main interests are NER (Named Entity Recognition), RE (Relation Extraction), and Style Transfer.
 
 <!-- - 📫 : how to reach me -->
 
