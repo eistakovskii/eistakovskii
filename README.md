@@ -1,4 +1,6 @@
-### 🤙 Hello there!
+### 🤙 Hello there, my name is Elisei Stakovskii!
+
+My experience and background summarized you can find in my [CV](/CV/Elisei_Stakovskii_CV.pdf)
 
 ---
 
