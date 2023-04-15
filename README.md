@@ -1,6 +1,6 @@
 ### 🤙 Hello there, my name is Elisei Stakovskii!
 
-My experience and background summarized you can find in my CV in [Englsh](/CV/CV_Elisei_Stakovskii_EN.pdf) and in [Russian](/CV/Резюме_Елисей_Стаковский.pdf)
+My up-to-date experience and background summarized you can find in my CV in [Englsh](/CV/CV_Elisei_Stakovskii_EN.pdf) and in [Russian](/CV/Резюме_Елисей_Стаковский.pdf)
 
 ---
 
